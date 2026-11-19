@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- MISTRAL RETRO ARCADE ANIMATED BANNER (TWINKLING ANIMATION) -->
+<!-- RETRO ARCADE ANIMATED BANNER (TWINKLING ANIMATION) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1E120A,100:FF5722&height=230&section=header&text=%E2%9A%A1%20JOHNNY%20KOZMAN%20%E2%9A%A1&fontSize=50&fontColor=FF9F1C&animation=twinkling&desc=%E2%96%B6%20AI%20Researcher%20%E2%80%A2%20PyTorch%20Ambassador%20MENA%20%E2%80%A2%20NeurIPS%202026%20%E2%97%80&descAlignY=72&descSize=16&descColor=FFA500&stroke=FF5722&strokeWidth=2" width="100%" alt="Johnny Kozman Banner"/>
 
 <!-- PIXEL SPRITES & ARCADE STATUS -->
@@ -14,6 +14,9 @@
 <p align="center">
   <a href="https://github.com/JohnnyKozman2007">
     <img src="https://img.shields.io/badge/%F0%9F%91%BE%20GITHUB-080808?style=for-the-badge&logo=github&logoColor=FF7A00&labelColor=16120E" alt="GitHub" />
+  </a>
+  <a href="https://openreview.net/profile?id=%7EJohnny_Kozman1">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20OPENREVIEW-080808?style=for-the-badge&logoColor=FF7A00&labelColor=16120E" alt="OpenReview" />
   </a>
   <a href="https://www.linkedin.com/in/jk-e-084b4425b/">
     <img src="https://img.shields.io/badge/%F0%9F%94%A5%20LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=16120E" alt="LinkedIn" />
@@ -60,7 +63,9 @@ EXP [████████████████████] MAX  | NeurIP
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACCEPTED%20%40%20NEURIPS%202026-FF7A00?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=120D08" alt="Status" />
+  <a href="https://openreview.net/profile?id=%7EJohnny_Kozman1">
+    <img src="https://img.shields.io/badge/STATUS-ACCEPTED%20%40%20NEURIPS%202026-FF7A00?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=120D08" alt="Status" />
+  </a>
 </div>
 
 <br>
@@ -70,6 +75,7 @@ EXP [████████████████████] MAX  | NeurIP
 > * 🏛️ **Venues:**
 >   * 🌟 **NeurIPS 2026 TAE Poster** *(Published: 28 Sept 2026)*
 >   * 🌟 **NeurIPS 2026 Workshop Verify-Agents** *(Published: 16 Nov 2026)*
+> * 🔗 **Profiles:** [OpenReview Profile](https://openreview.net/profile?id=%7EJohnny_Kozman1)
 > * 💡 **Key Takeaways:** Explores foundational questions in agent verification: Why do generative verifiers fail? Does scaling model size cure reasoning drift? How do blinding mechanisms and multi-agent juror systems actually perform under adversarial conditions?
 
 ```yaml
@@ -124,23 +130,23 @@ Code Framework: PyTorch, Distributed Inference, Custom Verifier Benchmarks
 
 ---
 
-### `// 03. LIVE RADAR & TELEMETRY [MISTRAL AMBER THEME]`
+### `// 03. LIVE RADAR & TELEMETRY [CYBER_DECK]`
 
 <div align="center">
 
-<!-- RETRO REPO STATS WITH MISTRAL PALETTE -->
+<!-- RETRO REPO STATS -->
 <a href="https://github.com/JohnnyKozman2007">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnnyKozman2007&show_icons=true&theme=tokyonight&bg_color=0D0D0D&title_color=FF7A00&text_color=D8D8D8&icon_color=FF5722&border_color=241808&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyKozman2007&show_icons=true&theme=tokyonight&bg_color=0D0D0D&title_color=FF7A00&text_color=D8D8D8&icon_color=FF5722&border_color=241808&rank_icon=github" width="48%" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/JohnnyKozman2007">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnnyKozman2007&layout=compact&theme=tokyonight&bg_color=0D0D0D&title_color=FF7A00&text_color=D8D8D8&border_color=241808" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyKozman2007&layout=compact&theme=tokyonight&bg_color=0D0D0D&title_color=FF7A00&text_color=D8D8D8&border_color=241808" width="48%" alt="Top Languages" />
 </a>
 
 <br><br>
 
-<!-- CONTRIBUTION STREAK -->
+<!-- DYNAMIC ACTIVITY GRAPH -->
 <a href="https://github.com/JohnnyKozman2007">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnnyKozman2007&theme=dark&background=0D0D0D&fire=FF5722&ring=FF7A00&currStreakLabel=FF7A00&currStreakNum=FFFFFF&sideNums=D8D8D8&sideLabels=A0A0A0&border=241808" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyKozman2007&theme=react-dark&bg_color=0D0D0D&color=FF7A00&line=FF5722&point=FFA500&area=true&hide_border=true" width="97%" alt="Activity Graph" />
 </a>
 
 </div>
